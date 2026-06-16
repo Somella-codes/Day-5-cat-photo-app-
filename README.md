@@ -36,7 +36,7 @@ Core HTML5 concepts practiced in this build:
 - Semantic HTML structure throughout
 - Meta charset for proper text rendering
 
-## Screenshot ![Cat Photo App Day 5](Screenshot_20260616_171541_Samsung%20Internet.jpg)
+## Screenshot ![Cat Photo App Day 5](Screenshot_20260616_231040_Samsung%20Internet.jpg)
 
 ## 🛠️ Tech Stack
 `HTML5` - Semantic markup only.
